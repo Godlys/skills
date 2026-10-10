@@ -8,3 +8,7 @@ skills 集合
 # 评价体系
 
 	immanent-critique/skill.md
+	
+# 技术选型
+
+	technology-selection/skill.md
